@@ -1,0 +1,16 @@
+{
+  "name": "clean-architecture",
+  "version": "1.0.0",
+  "description": "Clean architecture with NodeJs and JavaScript",
+  "main": "app.js",
+  "engines": {
+    "node": "^20.12.2"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcelo Oliveira",
+  "license": "ISC"
+}
